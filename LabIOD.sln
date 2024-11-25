@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabIOD", "LabIOD.csproj", "{A569CA57-D156-45C9-B43E-C2DC598188B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A569CA57-D156-45C9-B43E-C2DC598188B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A569CA57-D156-45C9-B43E-C2DC598188B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A569CA57-D156-45C9-B43E-C2DC598188B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A569CA57-D156-45C9-B43E-C2DC598188B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AF384CB-40C8-426F-97C8-D68B548A2E00}
+	EndGlobalSection
+EndGlobal
